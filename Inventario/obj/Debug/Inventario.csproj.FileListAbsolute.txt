@@ -1,0 +1,11 @@
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.Cache
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\bin\Debug\OpenNETCF.Data.dll
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\Inventario.Inventario.resources
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\Inventario.FormGrid.resources
+C:\Users\leandro.jekimim\Documents\Visual Studio 2008\Projects\Inventario\Inventario\obj\Debug\Inventario.FormGridNovos.resources
